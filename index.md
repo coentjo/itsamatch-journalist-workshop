@@ -19,9 +19,10 @@ Structure of knowledge caught in networks, graphs, using some tools, hands-on.
 - 30 min. Dive into Citation Network about AI & Ethics. 
 
 
+
 ## Obsidian
 
-[Obsidian](workshop/Obsidian.md)
+[Workshop](Workshop.md)
 ## Who: Iman, Berry, Coen
 
 
