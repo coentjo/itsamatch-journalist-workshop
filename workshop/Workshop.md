@@ -15,14 +15,8 @@ todo...
 
 A vault is a ***collection of notes*** (which are basically files on your hard disk) together with ***relations*** between them. Look at the `Graph View`  ( ![[button.graph.view.png]]  , find it on the upper left-side) to get an impression of the notes and how they are connected. 
 
----  @SCREENSHOT OF GRAPH
 
-
-```
-A quote: 
-It ain't what you do,
-it's the way that you do it... 
-```
+![[obsidian.graph.view.png]]
 
 
 ## Why would you use Obsidian? 
@@ -53,17 +47,31 @@ As with most computer applications nowadays, when you hover the cursor above an 
 
 ![[menu.upper.png]]
 From left to right: 
-- ***Files***: when selected you 
+- ***Files***: when selected you see these items: ![[menu.upper.second.line.png]], of which the leftmost two (New Note, New Folder) are the most used. I think these names speak for themselves. 
+- *Search*.
+- *Bookmarks*: store links to important pages. 
+
+In the corner left below you find these buttons: 
+![[menu.left.down.png]], which we will discuss in the next 3 chapters. 
+
+### 1. *Open another Vault*
+
+So, a ***Vault*** is basically a folder (directory) on your machine containing files (mainly markdown, `.md`-files, called `notes`) and (sub)folders. ***Any*** folder can be chosen to act as a *Vault*. 
 
 
 
-![[menu.left.down.png]]
+![[obsidian.open.another.vault.png]]
 
-## Some Settings
+### 2. *Help
+
+
+### 3. *Settings*
 
 There are some settings worth to talk about already, now. 
 
-Press the 'Settings'-button ( ![[button.settings.png]] ) or go to the 'Settings'-menu. Always good to have a glance what kind of options exist. 
+Press the 'Settings'-button ( ![[button.settings.png]] ) or go to the 'Settings'-menu. Always good to have a glance at the existing options. 
+
+
 
 ## Plug-ins
 
