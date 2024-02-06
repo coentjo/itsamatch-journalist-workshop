@@ -20,9 +20,8 @@ Structure of knowledge caught in networks, graphs, using some tools, hands-on.
 
 ## Structure of ws
 
-- 30 min. Start up, open PDF, install Obsidian (first 10 minutes guided, then we walk around for questions). Basic Obsidian functionality.
-- 30 min. Dive into Citation Network about AI & Ethics. 
-
+- 30 min. by [[Coen]] Start up, open PDF, install Obsidian (first 10 minutes guided, then we walk around for questions). Basic Obsidian functionality.
+- 30 min. by [[Iman]] Dive into Citation Network about AI & Ethics. 
 
 ## Permalink to pdf
 
@@ -32,5 +31,9 @@ Structure of knowledge caught in networks, graphs, using some tools, hands-on.
 
 [Workshop](Workshop.md)
 ## Who: Iman, Berry, Coen
+
+
+[[Slides]]
+
 
 
