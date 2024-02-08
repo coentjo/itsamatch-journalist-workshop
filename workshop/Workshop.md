@@ -1,9 +1,21 @@
 # Workshop Knowledge Graphs
 
-This text is the companion to the Workshop that was given by Iman, Berry and Coen in Mindlabs, Tilburg, on 8 Februari 2024. We hope to have inspired people by telling and showing a little bit about Knowledge Graphs and how to use them to investigate some news subject, and in the process showing an example of RAG (Retrieval Augmented Generation) and how a tool like Obsidian can be used to dive into Knowledge. This page will help you install Obsidian, but following the download instructions you will also find the information about Knowledge Graphs we shared in the workshop. 
+This text is the companion to the Workshop that was given by Iman, Berry and Coen in Mindlabs, Tilburg, on 8 Februari 2024. We hope to have inspired people by telling and showing a little bit about Knowledge Graphs and how to use them to investigate some news subject, and in the process showing an example of RAG (Retrieval Augmented Generation) and how a tool like Obsidian can be used to dive into Knowledge. 
+
+First the information about Knowledge Graphs from the workshop: 
+
+Follow this link (afterward you can use the backbutton to come back here)
+
+[[newcode.pdf]]
+
+--- 
+
 
 
 ![](attachments/obsidian.sharpen.png)
+
+
+
 
 ## QR
 
@@ -18,7 +30,6 @@ http://bit.ly/workshop-ai-journalist
 
 - Open browser on [https://obsidian.md](https://obsidian.md/), download and install Obsidian. 
 - Open browser on [workshop material](https://github.com/coentjo/itsamatch-journalist-workshop/archive/refs/heads/main.zip), download in 'Documents', unzip. 
-	- (the first part still has to be uploaded, will follow later). 
 - Start Obsidian, 'Open (folder as) Vault', chose the folder where you unzipped. 
 
 ## What is a Vault?
