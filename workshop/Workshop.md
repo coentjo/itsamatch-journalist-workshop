@@ -107,7 +107,7 @@ If you downloaded the 'workshop material' in an earlier step you have all our wo
 
 If you have questions, you can reach us via email: 
 
-- [c.crombach@fontys.nl](mailto:c.crombach@fontys.nl)
+- [b.sanders@fontys.nl](mailto:b.sanders@fontys.nl)
 
 
 
